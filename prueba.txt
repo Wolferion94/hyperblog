@@ -1,3 +1,5 @@
 Hola soy Cristian y estoy usando GIT
 
 Esta es la primera modificación del archivo por favor verifica que si esta guardada.
+
+Este es el tercer cambio del archivo, guardalo y vuelve al primer estado sin borrarlo todo.
